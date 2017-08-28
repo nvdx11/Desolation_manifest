@@ -1,0 +1,2 @@
+# bacon_manifest
+.
