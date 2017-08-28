@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/oneplus/bacon" name="AgentFabulous/_android" remote="github" revision="device_oneplus_bacon" />
+  <project path="kernel/oneplus/msm8974" name="AgentFabulous/_android" remote="github" revision="kernel_oneplus_msm8974" />
+</manifest>
